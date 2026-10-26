@@ -1,0 +1,11 @@
+.git
+.gitignore
+.vscode
+bin/
+obj/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
